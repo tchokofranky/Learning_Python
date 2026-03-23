@@ -1,0 +1,60 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Video Compilation Page</title>
+</head>
+
+<body>
+    <main>
+        <h1>Politique in 237</h1>
+        <p>
+        237 commonly known as Cameroun or the river of Prawns, derived from the Portuguese name "Rio dos Kamaroes" has always been a complicated country. Starting from the ethnical, cultural and socio-economical background of the country, which brought the country through several political ideology or frames. In this text we shall mainly focus on the different milestone from 1962 till date
+        </p>
+
+        <section>
+            <h2>Scramble for independence</h2>
+            <p>
+                It is important to have a brief summary of the colonial period of Cameroun. But lets keep in mind the different tribes and kingdoms that made Cameroon today already existed far before the colonial period.
+
+            </p>
+           <iframe 
+           width="560" 
+           height="315" 
+           src="https://www.youtube.com/embed/qYldoH_7tzc?si=ioqfmdk6miqx9d5i" 
+        title="Cameroun : l'intégralité du discours de Ruben Um Nyobe à l'ONU en 1952"              frameborder="0" 
+           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"          referrerpolicy="strict-origin-when-cross-origin" allowfullscreen
+           ></iframe>
+            </iframe>
+        </section>
+
+        <section>
+            <h2>The loser takes it all</h2>
+            <p>
+                After a long period of civil war, unfortunately for the population. The power was attributed to those who claimed it less.
+            </p>
+            <iframe 
+            width="560" height="315" src="https://www.youtube.com/embed/RWP75wHI8Vo?si=ZCgKcFQ6yAIKy8Or" title="L'Horrible Histoire de la GUERRE DU CAMEROUN" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen
+            ></iframe>
+        </section>
+
+        <section>
+            <h2>The loser takes it all</h2>
+            <p>
+                After a long period of civil war, unfortunately for the population. The power was attributed to those who claimed it less.
+            </p>
+            <iframe 
+            width="560" height="315" src="https://www.youtube.com/embed/RWP75wHI8Vo?si=ZCgKcFQ6yAIKy8Or" title="L'Horrible Histoire de la GUERRE DU CAMEROUN" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen
+            ></iframe>
+        </section>
+    </main>
+
+</body>
+
+</html>
+
+** end of index.html **
+
